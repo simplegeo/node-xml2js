@@ -7,7 +7,7 @@ build-Depends: cdbs, debhelper (>= 7)
 Standards-Version: 3.9.1
 
 Package: nodejs-xml2js
-Depends: nodejs (>= 0.2.0), ${misc:Depends}
+Depends: nodejs (>= 0.2.0), nodejs-sax (>= 0.1.1), ${misc:Depends}
 Architecture: all
 Description: node-xml2js
  https://github.com/maqr/node-xml2js
