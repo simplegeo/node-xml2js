@@ -1,3 +1,12 @@
+nodejs-xml2js (0.1.5-0sg1) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * depend on nodejs-sax
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 21 Feb 2011 21:03:11 +0000
+
 nodejs-xml2js (0.1.5-0sg0) unstable; urgency=low
 
   * Debianized
